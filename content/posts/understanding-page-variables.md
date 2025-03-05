@@ -2,7 +2,7 @@
 title: Understanding Page Variables
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu mi sit amet nulla laoreet finibus sed in libero.
 date: 2022-06-14T15:10:38-05:00
-draft: false
+draft: true
 ---
 
 ### What Are Page Variables?
