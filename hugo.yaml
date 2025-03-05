@@ -2,8 +2,6 @@ baseURL: https://insthealth.ru/
 languageCode: ru-ru
 title: Insthealth
 
-theme: stack
-
 module:
   mounts:
   - source: content
