@@ -6,3 +6,12 @@ module:
   mounts:
   - source: content
     target: content
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+    - identifier: blog
+      name: Blog
+      url: /posts/
