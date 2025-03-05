@@ -1,3 +1,8 @@
 baseURL: https://insthealth.ru/
 languageCode: ru-ru
 title: Insthealth
+
+module:
+  mounts:
+  - source: content
+    target: content
